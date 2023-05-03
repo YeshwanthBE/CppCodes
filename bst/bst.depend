@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670041214 source:c:\users\india\codeblocks-workspace\bst\main.cpp
+	<iostream>
+	<cmath>
+	<queue>
+

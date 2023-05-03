@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677066566 source:c:\users\india\codeblocks-workspace\articulation points\main.cpp
+	<iostream>
+	<list>
+	<stack>
+	<queue>
+

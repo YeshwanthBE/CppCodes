@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680796430 source:c:\users\india\codeblocks-workspace\sliding window\main.cpp
+	<iostream>
+	<cstring>
+

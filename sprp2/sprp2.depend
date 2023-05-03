@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680843503 source:c:\users\india\codeblocks-workspace\sprp2\main.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+

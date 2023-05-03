@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668951319 source:c:\users\india\codeblocks-workspace\tre\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+

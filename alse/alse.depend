@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668146851 source:c:\users\india\codeblocks-workspace\alse\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+

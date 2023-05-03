@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668917870 source:c:\users\india\codeblocks-workspace\thwr\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+

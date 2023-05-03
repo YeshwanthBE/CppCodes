@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665418424 source:c:\users\india\codeblocks-workspace\test\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

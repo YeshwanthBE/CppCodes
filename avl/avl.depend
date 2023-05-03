@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670649762 source:c:\users\india\codeblocks-workspace\avl\main.cpp
+	<iostream>
+	<queue>
+

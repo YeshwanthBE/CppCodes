@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680706484 source:c:\users\india\codeblocks-workspace\revstr\main.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+

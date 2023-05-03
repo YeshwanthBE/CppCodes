@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672061935 source:c:\users\india\codeblocks-workspace\prims\main.cpp
+	<iostream>
+	<list>
+	<queue>
+

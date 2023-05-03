@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668318621 source:c:\users\india\codeblocks-workspace\meib\main.cpp
+	<iostream>
+	<queue>
+

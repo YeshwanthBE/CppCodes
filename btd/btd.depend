@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670246847 source:c:\users\india\codeblocks-workspace\btd\main.cpp
+	<iostream>
+	<stack>
+	<cctype>
+	<queue>
+

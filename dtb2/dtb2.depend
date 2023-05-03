@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670416420 source:c:\users\india\codeblocks-workspace\dtb2\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+

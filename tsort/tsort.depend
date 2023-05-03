@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671706278 source:c:\users\india\codeblocks-workspace\tsort\main.cpp
+	<iostream>
+	<queue>
+

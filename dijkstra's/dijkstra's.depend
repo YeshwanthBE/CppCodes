@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675817050 source:c:\users\india\codeblocks-workspace\dijkstra's\main.cpp
+	<iostream>
+	<list>
+	<queue>
+

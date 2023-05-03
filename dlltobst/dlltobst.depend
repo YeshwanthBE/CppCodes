@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670135867 source:c:\users\india\codeblocks-workspace\dlltobst\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<cctype>
+

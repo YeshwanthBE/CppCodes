@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670550949 source:c:\users\india\codeblocks-workspace\treee\main.cpp
+	<iostream>
+	<cmath>
+	<queue>
+

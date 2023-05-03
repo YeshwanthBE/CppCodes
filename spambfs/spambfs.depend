@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671849438 source:c:\users\india\codeblocks-workspace\spambfs\main.cpp
+	<iostream>
+	<list>
+	<queue>
+

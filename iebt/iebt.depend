@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668512914 source:c:\users\india\codeblocks-workspace\iebt\main.cpp
+	<iostream>
+	<queue>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667908460 source:c:\users\india\codeblocks-workspace\nneus\main.cpp
+	<iostream>
+	<stack>
+	<cmath>
+
