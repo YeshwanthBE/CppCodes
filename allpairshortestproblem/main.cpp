@@ -68,8 +68,51 @@ void randg(int k=4)
     insedge(3,0,2);
     dg();
 }
+void matcal(int ar[4][4])
+{
+    for(int i=0;i<g->v;i++)
+    {
+        lst *ptr=g->adj[i];
+        while(ptr)
+        {
+            ar[i][ptr->vtx]=ptr->cost;
+            ptr=ptr->nxt;
+        }
+    }
+    for(int i=0;i<4;i++)
+        for(int j=0;j<4;j++)
+            if(ar[i][j]==0&&i!=j)
+                ar[i][j]=32676;
+}
+void disp(int ar[][4],int k=4)
+{
+    for(int i=0;i<k;i++,cout<<endl)
+        for(int j=0;j<k;j++)
+            cout<<ar[i][j]<<' ';
+}
+void alsp()
+{
+    int ar[4][4]={0};
+    matcal(ar);
+    for(int k=0;k<g->v;k++)
+    {
+        for(int i=0;i<g->v;i++)
+        {
+            if(i==k) continue;
+            for(int j=0,temp;j<g->v;j++)
+            {
+                //if(j==k) continue;
+                temp=ar[i][k]+ar[k][j];
+                if(temp<ar[i][j])
+                    ar[i][j]=temp;
+            }
+        }
+    }
+    disp(ar);
+}
 int main()
 {
     randg();
+    alsp();
     return 0;
 }
